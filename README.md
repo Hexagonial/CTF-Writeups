@@ -12,3 +12,4 @@ Here are my favorite challenges from each category so far:
 
 ### Reverse Engineering
 - **picoCTF** - perplexed
+- **picoCTF** - weirdSnake
