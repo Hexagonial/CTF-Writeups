@@ -8,6 +8,7 @@ Here are my favorite challenges from each category so far:
 
 ### General Skills/Misc.
 - **picoCTF** - SansAlpha
+- **picoCTF** - Specialer
 
 ### Reverse Engineering
 - **picoCTF** - perplexed
