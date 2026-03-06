@@ -24,3 +24,4 @@ Here are the challenges from each category that I struggled with the most. Not a
 
 ### Reverse Engineering
 - **picoCTF** - perplexed
+- **picoCTF** - Easy as GDB (writeup pending)
