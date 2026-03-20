@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for n in {1..301};
+do
+    curl http://mysterious-sea.picoctf.net:52370/
+done
